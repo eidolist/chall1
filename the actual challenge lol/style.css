@@ -10,3 +10,7 @@ body {
     background-image: url(https://media.giphy.com/media/Yy26NRbpB9lDi/giphy.gif);
     background-size: 100% 100%;
 }
+
+.a {
+    text-shadow: 2px 2px black;
+}
