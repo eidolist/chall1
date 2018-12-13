@@ -8,9 +8,8 @@
 
 body {
     background-image: url(https://media.giphy.com/media/Yy26NRbpB9lDi/giphy.gif);
-    background-size: 100% 200%;
+    background-size: 100% 20;
 }
 
 .asd {
     text-shadow: 2px 2px black;
-}
